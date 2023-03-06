@@ -5,9 +5,9 @@ module.exports.key_values = {
     nodemailer_host: "smtp.gmail.com",
     nodemailer_port: 587,
 //----- add Email Id used for sending mail to other user ------- //
-    nodemailer_user: "mohdnazir1007@gmail.com",
+    nodemailer_user: "",
 //----- add password for above user ID (create password using app password from google services) ------ //
-    nodemailer_pass: "lqewzyebvanjecmb",
+    nodemailer_pass: "",
     
     // ------ mongoose DB path ------ //
     mongoose_db: "mongodb://localhost/node_authentication", 
